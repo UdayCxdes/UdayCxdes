@@ -7,7 +7,7 @@
 - 💬 Ask me about Web development and Python
 - 📫 How to reach me: [Discord.](https://discord.com/users/876535756087255091)
 - 😄 Pronouns: He/Him
-- ⚡ My favorite IDE: <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+- ⚡ My favorite IDE: <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 <a href="https://twitter.com/shivaop121" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/shivaop121?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
